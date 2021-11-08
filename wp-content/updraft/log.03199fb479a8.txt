@@ -1,0 +1,527 @@
+0000.000 (0) Opened log file at time: Sun, 07 Nov 2021 18:05:25 +0000 on http://localhost/wordpress-yourtouch
+0000.008 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.63 WP: 5.8.1 PHP: 7.3.31 (apache2handler, Windows NT DESKTOP-O5B5N4Q 10.0 build 19043 (Windows 10) AMD64) MySQL: 10.4.21-MariaDB (max packet size=1048576) WPLANG: en_US Server: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/7.3.31 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 90.7M | 8M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.010 (0) Free space on disk containing Updraft's temporary directory: 924773.7 MB
+0000.013 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.016 (0) Semaphore (fd, wp_options) being initialised
+0000.023 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.028 (0) Set semaphore last lock (fd) time to 2021-11-07 18:05:25
+0000.030 (0) Semaphore lock (fd) complete
+0000.037 (0) Backup run: resumption=0, nonce=03199fb479a8, file_nonce=03199fb479a8 begun at=1636308325 (0s ago), job type=backup
+0000.042 (0) Scheduling a resumption (1) after 300 seconds (1636308625) in case this run gets aborted
+0000.062 (0) Checking if we have a zip executable available
+0000.067 (0) Creation of backups of directories: beginning
+0000.075 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0003.856 (0) Total entities for the zip file: 2089 directories, 10671 files (0 skipped as non-modified), 132.8 MB
+0003.866 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0004.255 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 100 files added (on-disk size: 397.9 KB)
+0005.240 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 200 files added (on-disk size: 397.9 KB)
+0005.743 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 300 files added (on-disk size: 397.9 KB)
+0006.026 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 400 files added (on-disk size: 397.9 KB)
+0006.244 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 500 files added (on-disk size: 397.9 KB)
+0006.393 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 600 files added (on-disk size: 397.9 KB)
+0006.497 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (23.2 MB, 671 (672) files added so far); re-opening (prior size: 397.9 KB)
+0007.720 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 700 files added (on-disk size: 6955.3 KB)
+0008.157 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 800 files added (on-disk size: 6955.3 KB)
+0008.879 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 900 files added (on-disk size: 6955.3 KB)
+0009.850 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1000 files added (on-disk size: 6955.3 KB)
+0010.316 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1100 files added (on-disk size: 6955.3 KB)
+0010.501 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (10.4 MB, 447 (1119) files added so far); re-opening (prior size: 6955.3 KB)
+0011.804 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1200 files added (on-disk size: 11444.3 KB)
+0012.355 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1300 files added (on-disk size: 11444.3 KB)
+0012.418 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1400 files added (on-disk size: 11444.3 KB)
+0012.442 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1500 files added (on-disk size: 11444.3 KB)
+0012.467 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1600 files added (on-disk size: 11444.3 KB)
+0012.920 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1700 files added (on-disk size: 11444.3 KB)
+0013.230 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1800 files added (on-disk size: 11444.3 KB)
+0013.499 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (7.3 MB, 748 (1867) files added so far); re-opening (prior size: 11444.3 KB)
+0015.106 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 1900 files added (on-disk size: 14071.1 KB)
+0015.688 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2000 files added (on-disk size: 14071.1 KB)
+0016.291 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2100 files added (on-disk size: 14071.1 KB)
+0016.497 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.6 MB, 303 (2170) files added so far); re-opening (prior size: 14071.1 KB)
+0017.012 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2200 files added (on-disk size: 15315.3 KB)
+0017.485 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2300 files added (on-disk size: 15315.3 KB)
+0017.641 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2400 files added (on-disk size: 15315.3 KB)
+0017.666 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2500 files added (on-disk size: 15315.3 KB)
+0017.690 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2600 files added (on-disk size: 15315.3 KB)
+0017.714 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2700 files added (on-disk size: 15315.3 KB)
+0017.739 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2800 files added (on-disk size: 15315.3 KB)
+0017.763 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 2900 files added (on-disk size: 15315.3 KB)
+0017.788 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3000 files added (on-disk size: 15315.3 KB)
+0017.812 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3100 files added (on-disk size: 15315.3 KB)
+0017.830 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.8 MB, 10671 files batched, 1001 (3171) added so far); re-opening (prior size: 15315.3 KB)
+0018.430 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3200 files added (on-disk size: 18710.7 KB)
+0018.465 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3300 files added (on-disk size: 18710.7 KB)
+0018.500 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3400 files added (on-disk size: 18710.7 KB)
+0018.535 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3500 files added (on-disk size: 18710.7 KB)
+0018.571 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3600 files added (on-disk size: 18710.7 KB)
+0018.595 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3700 files added (on-disk size: 18710.7 KB)
+0018.620 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3800 files added (on-disk size: 18710.7 KB)
+0018.665 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 3900 files added (on-disk size: 18710.7 KB)
+0018.690 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4000 files added (on-disk size: 18710.7 KB)
+0018.726 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4100 files added (on-disk size: 18710.7 KB)
+0018.745 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.8 MB, 10671 files batched, 1001 (4172) added so far); re-opening (prior size: 18710.7 KB)
+0020.019 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4200 files added (on-disk size: 24278.5 KB)
+0020.055 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4300 files added (on-disk size: 24278.5 KB)
+0020.079 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4400 files added (on-disk size: 24278.5 KB)
+0020.107 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4500 files added (on-disk size: 24278.5 KB)
+0020.132 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4600 files added (on-disk size: 24278.5 KB)
+0020.156 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4700 files added (on-disk size: 24278.5 KB)
+0020.180 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4800 files added (on-disk size: 24278.5 KB)
+0020.297 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 4900 files added (on-disk size: 24278.5 KB)
+0020.647 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5000 files added (on-disk size: 24278.5 KB)
+0021.110 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5100 files added (on-disk size: 24278.5 KB)
+0021.626 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.6 MB, 10671 files batched, 1001 (5173) added so far); re-opening (prior size: 24278.5 KB)
+0022.508 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5200 files added (on-disk size: 28118.7 KB)
+0024.496 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.4 MB, 127 (5300) files added so far); re-opening (prior size: 28118.7 KB)
+0024.710 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5300 files added (on-disk size: 28478.8 KB)
+0025.951 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5400 files added (on-disk size: 28478.8 KB)
+0026.062 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5500 files added (on-disk size: 28478.8 KB)
+0026.636 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5600 files added (on-disk size: 28478.8 KB)
+0026.768 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5700 files added (on-disk size: 28478.8 KB)
+0027.151 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5800 files added (on-disk size: 28478.8 KB)
+0027.498 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (5.5 MB, 563 (5863) files added so far); re-opening (prior size: 28478.8 KB)
+0028.115 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 5900 files added (on-disk size: 29951.1 KB)
+0028.554 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6000 files added (on-disk size: 29951.1 KB)
+0028.891 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6100 files added (on-disk size: 29951.1 KB)
+0029.162 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6200 files added (on-disk size: 29951.1 KB)
+0029.453 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6300 files added (on-disk size: 29951.1 KB)
+0029.984 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6400 files added (on-disk size: 29951.1 KB)
+0030.501 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 MB, 599 (6462) files added so far); re-opening (prior size: 29951.1 KB)
+0031.414 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6500 files added (on-disk size: 31564.2 KB)
+0031.961 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6600 files added (on-disk size: 31564.2 KB)
+0032.457 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6700 files added (on-disk size: 31564.2 KB)
+0032.941 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6800 files added (on-disk size: 31564.2 KB)
+0033.496 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 429 (6891) files added so far); re-opening (prior size: 31564.2 KB)
+0033.916 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 6900 files added (on-disk size: 31942.7 KB)
+0034.592 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7000 files added (on-disk size: 31942.7 KB)
+0035.021 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7100 files added (on-disk size: 31942.7 KB)
+0035.510 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7200 files added (on-disk size: 31942.7 KB)
+0035.978 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7300 files added (on-disk size: 31942.7 KB)
+0036.459 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7400 files added (on-disk size: 31942.7 KB)
+0036.494 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1 MB, 514 (7405) files added so far); re-opening (prior size: 31942.7 KB)
+0037.494 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7500 files added (on-disk size: 32429.5 KB)
+0038.188 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7600 files added (on-disk size: 32429.5 KB)
+0038.598 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7700 files added (on-disk size: 32429.5 KB)
+0038.820 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7800 files added (on-disk size: 32429.5 KB)
+0039.502 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (6.2 MB, 495 (7900) files added so far); re-opening (prior size: 32429.5 KB)
+0039.995 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 7900 files added (on-disk size: 34392.9 KB)
+0040.697 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8000 files added (on-disk size: 34392.9 KB)
+0041.902 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8100 files added (on-disk size: 34392.9 KB)
+0042.377 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8200 files added (on-disk size: 34392.9 KB)
+0042.495 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.1 MB, 335 (8235) files added so far); re-opening (prior size: 34392.9 KB)
+0043.028 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8300 files added (on-disk size: 34745.5 KB)
+0043.869 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8400 files added (on-disk size: 34745.5 KB)
+0043.938 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8500 files added (on-disk size: 34745.5 KB)
+0044.015 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8600 files added (on-disk size: 34745.5 KB)
+0044.105 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8700 files added (on-disk size: 34745.5 KB)
+0044.177 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8800 files added (on-disk size: 34745.5 KB)
+0044.274 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 8900 files added (on-disk size: 34745.5 KB)
+0044.444 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9000 files added (on-disk size: 34745.5 KB)
+0044.555 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9100 files added (on-disk size: 34745.5 KB)
+0044.642 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9200 files added (on-disk size: 34745.5 KB)
+0044.679 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.2 MB, 10671 files batched, 1001 (9236) added so far); re-opening (prior size: 34745.5 KB)
+0046.070 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9300 files added (on-disk size: 38200.9 KB)
+0046.141 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9400 files added (on-disk size: 38200.9 KB)
+0046.215 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9500 files added (on-disk size: 38200.9 KB)
+0046.290 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9600 files added (on-disk size: 38200.9 KB)
+0046.378 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9700 files added (on-disk size: 38200.9 KB)
+0046.764 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9800 files added (on-disk size: 38200.9 KB)
+0047.147 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 9900 files added (on-disk size: 38200.9 KB)
+0047.725 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 10000 files added (on-disk size: 38200.9 KB)
+0048.420 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 10100 files added (on-disk size: 38200.9 KB)
+0048.494 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (11.8 MB, 870 (10106) files added so far); re-opening (prior size: 38200.9 KB)
+0050.372 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 10200 files added (on-disk size: 43652.9 KB)
+0050.853 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 10300 files added (on-disk size: 43652.9 KB)
+0051.521 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (1.9 MB, 260 (10366) files added so far); re-opening (prior size: 43652.9 KB)
+0052.452 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 10400 files added (on-disk size: 44150.8 KB)
+0053.277 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 10500 files added (on-disk size: 44150.8 KB)
+0054.251 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.tmp: 10600 files added (on-disk size: 44150.8 KB)
+0054.500 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.2 MB, 261 (10627) files added so far); re-opening (prior size: 44150.8 KB)
+0056.078 (0) Creating zip file manifest (C:\xampp\htdocs\wordpress-yourtouch/wp-content/updraft/backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.list-temp.tmp)
+0056.118 (0) Successfully created zip file manifest (size: 950541)
+0056.474 (0) Created plugins zip (0) - 44930.5 KB in 56.4 s (796.7 KB/s) (sha1: fa6621cbd8ab20bb039dee2dac86e5348cd2fc0d, sha256: 1cec3a0eab57c06077765da6d8624ecfca0e5bbb9e0906f4d4bfca38935fbd20)
+0056.479 (0) Beginning creation of dump of themes (split every: 400 MB)
+0056.735 (0) Total entities for the zip file: 205 directories, 961 files (0 skipped as non-modified), 21.7 MB
+0057.056 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0057.592 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0057.937 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0058.305 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0058.509 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.6 MB, 431 (431) files added so far); re-opening (prior size: 0 KB)
+0060.277 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 500 files added (on-disk size: 4293.6 KB)
+0060.662 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 600 files added (on-disk size: 4293.6 KB)
+0061.267 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 700 files added (on-disk size: 4293.6 KB)
+0061.498 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2.5 MB, 298 (729) files added so far); re-opening (prior size: 4293.6 KB)
+0062.341 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 800 files added (on-disk size: 5680.5 KB)
+0062.838 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.tmp: 900 files added (on-disk size: 5680.5 KB)
+0063.820 (0) Creating zip file manifest (C:\xampp\htdocs\wordpress-yourtouch/wp-content/updraft/backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.list-temp.tmp)
+0063.828 (0) Successfully created zip file manifest (size: 65312)
+0063.904 (0) Created themes zip (0) - 8678.3 KB in 7.4 s (1169.2 KB/s) (sha1: a63f7c047fa620c90d105db39ff25372a4e2ec5e, sha256: a8a61e858e4eb9fd4da4a2beaa073360c908168d03c8cad39e1c71a178ecd306)
+0063.909 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0063.911 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress-yourtouch/wp-content/uploads
+0063.913 (0) finding files: 2016: adding to list (1)
+0063.915 (0) finding files: 2017: adding to list (2)
+0063.916 (0) finding files: 2021: adding to list (3)
+0063.918 (0) finding files: elementor: adding to list (4)
+0063.920 (0) finding files: rank-math: adding to list (5)
+0063.921 (0) finding files: wc-logs: adding to list (6)
+0063.923 (0) finding files: woocommerce-placeholder-100x100.png: adding to list (7)
+0063.925 (0) finding files: woocommerce-placeholder-1024x1024.png: adding to list (8)
+0063.927 (0) finding files: woocommerce-placeholder-150x150.png: adding to list (9)
+0063.928 (0) finding files: woocommerce-placeholder-300x300.png: adding to list (10)
+0063.930 (0) finding files: woocommerce-placeholder-348x464.png: adding to list (11)
+0063.932 (0) finding files: woocommerce-placeholder-454x454.png: adding to list (12)
+0063.934 (0) finding files: woocommerce-placeholder-768x768.png: adding to list (13)
+0063.936 (0) finding files: woocommerce-placeholder.png: adding to list (14)
+0063.938 (0) finding files: woocommerce_uploads: adding to list (15)
+0063.940 (0) finding files: wpforms: adding to list (16)
+0063.942 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0064.119 (0) Total entities for the zip file: 14 directories, 858 files (0 skipped as non-modified), 45.6 MB
+0064.246 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0064.358 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0064.472 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0064.594 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 400 files added (on-disk size: 0 KB)
+0064.713 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 500 files added (on-disk size: 0 KB)
+0064.743 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (27 MB, 858 files batched, 555 (555) added so far); re-opening (prior size: 0 KB)
+0064.917 (0) A useful amount of data was added after this amount of zip processing: 1.4 s (normalised: 1.3 s, rate: 19422.9 KB/s)
+0064.921 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.4231998920441, normalised_time=1.3180286994068, max_time=64.918710947037, data points known=1, old_max_bytes=26214400, new_max_bytes=209715200)
+0064.942 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 600 files added (on-disk size: 27738.6 KB)
+0065.005 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 700 files added (on-disk size: 27738.6 KB)
+0065.076 (0) Zip: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.tmp: 800 files added (on-disk size: 27738.6 KB)
+0065.322 (0) Creating zip file manifest (C:\xampp\htdocs\wordpress-yourtouch/wp-content/updraft/backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.list-temp.tmp)
+0065.327 (0) Successfully created zip file manifest (size: 55687)
+0065.658 (0) Created uploads zip (0) - 46574.1 KB in 1.7 s (27203.1 KB/s) (sha1: e3061485af065abd1123aac443ba7c4418fb9cc5, sha256: 571c2efc1ec50626405892a12cf0c5f68de733fd73a73fe06dff394fc7328861)
+0065.663 (0) Beginning backup of other directories found in the content directory (index: 0)
+0065.665 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0065.667 (0) Looking for candidates to backup in: C:\xampp\htdocs\wordpress-yourtouch/wp-content
+0065.669 (0) finding files: index.php: adding to list (1)
+0065.671 (0) finding files: plugins: skipping: this is the plugins directory
+0065.673 (0) finding files: themes: skipping: this is the themes directory
+0065.675 (0) finding files: updraft: skipping: this is the updraft directory
+0065.677 (0) finding files: upgrade: skipping: excluded by options
+0065.679 (0) finding files: uploads: skipping: this is the uploads directory
+0065.687 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0065.701 (0) Creating zip file manifest (C:\xampp\htdocs\wordpress-yourtouch/wp-content/updraft/backup_2021-11-07-1805_YourTouch_03199fb479a8-others.zip.list-temp.tmp)
+0065.703 (0) Successfully created zip file manifest (size: 43)
+0065.710 (0) Created others zip (0) - 0.1 KB in 0 s (5.2 KB/s) (sha1: 76a174abc6bc611624585822ab7b542fc9f50d66, sha256: 162628ee636f49a2edc84dfdea4ad4f4c952149d74b2ba05aceef46f4491e343)
+0065.720 (0) Saving backup status to database (elements: 8)
+0065.725 (0) Beginning creation of database dump (WordPress DB)
+0065.727 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0065.823 (0) Table wp_options: Total expected rows (via COUNT): 617
+0065.917 (0) Table wp_options: Rows added in this batch (next record: 2484): 613 (uncompressed bytes in this segment=2460636) in 0.12 seconds
+0065.929 (0) Table wp_options: finishing file(s) (2, 482.3 KB)
+0065.940 (0) Table wp_users: Total expected rows (via COUNT): 1
+0065.942 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0065.946 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1381) in 0.01 seconds
+0065.956 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0065.968 (0) Table wp_usermeta: Total expected rows (via COUNT): 52
+0065.970 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0065.976 (0) Table wp_usermeta: Rows added in this batch (next record: 63): 52 (uncompressed bytes in this segment=5937) in 0.01 seconds
+0065.987 (0) Table wp_usermeta: finishing file(s) (2, 1.9 KB)
+0066.000 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 88
+0066.002 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.008 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 93): 88 (uncompressed bytes in this segment=28012) in 0.01 seconds
+0066.019 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2.8 KB)
+0066.028 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0066.033 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=631) in 0.01 seconds
+0066.042 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0066.055 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 6
+0066.062 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.076 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=797) in 0.03 seconds
+0066.088 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0066.102 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 252
+0066.105 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.119 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 252): 252 (uncompressed bytes in this segment=22202) in 0.02 seconds
+0066.130 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 2.9 KB)
+0066.146 (0) Table wp_commentmeta: Total expected rows (via COUNT): 20
+0066.149 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.155 (0) Table wp_commentmeta: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=1774) in 0.02 seconds
+0066.167 (0) Table wp_commentmeta: finishing file(s) (2, 0.7 KB)
+0066.179 (0) Table wp_comments: Total expected rows (via COUNT): 12
+0066.181 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.185 (0) Table wp_comments: Rows added in this batch (next record: 13): 12 (uncompressed bytes in this segment=5227) in 0.01 seconds
+0066.195 (0) Table wp_comments: finishing file(s) (2, 1.3 KB)
+0066.218 (0) Table wp_links: Total expected rows (via COUNT): 0
+0066.223 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1266) in 0.01 seconds
+0066.232 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0066.292 (0) Table wp_postmeta: Total expected rows (approximate): 4927
+0066.373 (0) Table wp_postmeta: Rows added in this batch (next record: 5567): 5209 (uncompressed bytes in this segment=3208681) in 0.13 seconds
+0066.384 (0) Table wp_postmeta: finishing file(s) (2, 124.4 KB)
+0066.410 (0) Table wp_posts: Total expected rows (via COUNT): 518
+0066.450 (0) Table wp_posts: Rows added in this batch (next record: 731): 518 (uncompressed bytes in this segment=1532961) in 0.06 seconds
+0066.461 (0) Table wp_posts: finishing file(s) (2, 51.2 KB)
+0066.469 (0) Table wp_term_relationships: Total expected rows (approximate): 153
+0066.474 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 153 (uncompressed bytes in this segment=2899) in 0.01 seconds
+0066.482 (0) Table wp_term_relationships: finishing file(s) (2, 0.8 KB)
+0066.493 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 44
+0066.495 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.500 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 46): 44 (uncompressed bytes in this segment=2587) in 0.01 seconds
+0066.510 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.7 KB)
+0066.525 (0) Table wp_termmeta: Total expected rows (via COUNT): 45
+0066.527 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.529 (0) Table wp_termmeta: Rows added in this batch (next record: 52): 45 (uncompressed bytes in this segment=2369) in 0.01 seconds
+0066.539 (0) Table wp_termmeta: finishing file(s) (2, 0.7 KB)
+0066.548 (0) Table wp_terms: Total expected rows (via COUNT): 44
+0066.550 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.552 (0) Table wp_terms: Rows added in this batch (next record: 46): 44 (uncompressed bytes in this segment=2125) in 0.01 seconds
+0066.560 (0) Table wp_terms: finishing file(s) (2, 0.9 KB)
+0066.569 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 10
+0066.573 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 10 (uncompressed bytes in this segment=685) in 0.01 seconds
+0066.581 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.4 KB)
+0066.589 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 30
+0066.591 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.596 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 720): 30 (uncompressed bytes in this segment=4077) in 0.01 seconds
+0066.604 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.9 KB)
+0066.614 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0066.618 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=659) in 0.01 seconds
+0066.626 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0066.637 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0066.639 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.643 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=800) in 0.01 seconds
+0066.650 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0066.660 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0066.664 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=772) in 0.01 seconds
+0066.672 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0066.684 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0066.685 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=799) in 0.01 seconds
+0066.694 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0066.702 (0) Table wp_rank_math_analytics_objects: Total expected rows (via COUNT): 45
+0066.704 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.709 (0) Table wp_rank_math_analytics_objects: Rows added in this batch (next record: 45): 45 (uncompressed bytes in this segment=10251) in 0.01 seconds
+0066.716 (0) Table wp_rank_math_analytics_objects: finishing file(s) (2, 2.4 KB)
+0066.724 (0) Table wp_rank_math_internal_links: Total expected rows (via COUNT): 0
+0066.728 (0) Table wp_rank_math_internal_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=743) in 0.01 seconds
+0066.735 (0) Table wp_rank_math_internal_links: finishing file(s) (2, 0.4 KB)
+0066.743 (0) Table wp_rank_math_internal_meta: Total expected rows (via COUNT): 0
+0066.747 (0) Table wp_rank_math_internal_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=643) in 0.01 seconds
+0066.754 (0) Table wp_rank_math_internal_meta: finishing file(s) (2, 0.3 KB)
+0066.765 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 46
+0066.767 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.771 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 502): 46 (uncompressed bytes in this segment=8520) in 0.01 seconds
+0066.780 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 2 KB)
+0066.790 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 42
+0066.792 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.795 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 42): 42 (uncompressed bytes in this segment=21892) in 0.01 seconds
+0066.805 (0) Table wp_wc_admin_notes: finishing file(s) (2, 5.6 KB)
+0066.815 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 7
+0066.817 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.821 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=2064) in 0.01 seconds
+0066.828 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.8 KB)
+0066.838 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0066.842 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=918) in 0.01 seconds
+0066.849 (0) Table wp_wc_download_log: finishing file(s) (2, 0.5 KB)
+0066.857 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0066.859 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=711) in 0.01 seconds
+0066.869 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0066.877 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 0
+0066.879 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1211) in 0.01 seconds
+0066.887 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0066.895 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 7
+0066.897 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.901 (0) Table wp_wc_order_stats: Rows added in this batch (next record: 293): 7 (uncompressed bytes in this segment=1909) in 0.01 seconds
+0066.908 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.7 KB)
+0066.918 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0066.922 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=789) in 0.01 seconds
+0066.930 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0066.940 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0066.942 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1202) in 0.01 seconds
+0066.949 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0066.962 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0066.964 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1031) in 0.01 seconds
+0066.973 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0066.983 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0066.985 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=939) in 0.01 seconds
+0066.993 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0067.003 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0067.005 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1514) in 0.01 seconds
+0067.013 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0067.026 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0067.027 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=719) in 0.01 seconds
+0067.037 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0067.045 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0067.048 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=727) in 0.01 seconds
+0067.055 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0067.065 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0067.067 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=821) in 0.01 seconds
+0067.075 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0067.099 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 7
+0067.101 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.106 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 63): 7 (uncompressed bytes in this segment=10010) in 0.02 seconds
+0067.116 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 1.4 KB)
+0067.129 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0067.134 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=862) in 0.01 seconds
+0067.142 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0067.154 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0067.156 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=765) in 0.01 seconds
+0067.164 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0067.173 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0067.175 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.01 seconds
+0067.183 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0067.193 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0067.196 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=836) in 0.01 seconds
+0067.204 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0067.212 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0067.215 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1273) in 0.01 seconds
+0067.225 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0067.236 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 6
+0067.238 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.242 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=1126) in 0.01 seconds
+0067.251 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0067.263 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 28
+0067.265 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.272 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 28): 28 (uncompressed bytes in this segment=15899) in 0.01 seconds
+0067.282 (0) Table wp_yoast_indexable: finishing file(s) (2, 2.8 KB)
+0067.290 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 7
+0067.294 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 1000): 7 (uncompressed bytes in this segment=903) in 0.01 seconds
+0067.302 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0067.310 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 22
+0067.312 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.317 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 22): 22 (uncompressed bytes in this segment=1207) in 0.01 seconds
+0067.325 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0067.336 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0067.340 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=852) in 0.01 seconds
+0067.348 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0067.357 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 0
+0067.359 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=981) in 0.01 seconds
+0067.368 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.4 KB)
+0067.371 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_options.table.tmpr2485.gz (1/52/fopen): adding to final database dump
+0067.383 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_options.table.gz (2/52/fopen): adding to final database dump
+0067.384 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_users.table.tmpr2.gz (3/52/fopen): adding to final database dump
+0067.386 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_users.table.gz (4/52/fopen): adding to final database dump
+0067.388 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_usermeta.table.tmpr64.gz (5/52/fopen): adding to final database dump
+0067.390 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_usermeta.table.gz (6/52/fopen): adding to final database dump
+0067.392 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_actions.table.tmpr94.gz (7/52/fopen): adding to final database dump
+0067.393 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_actions.table.gz (8/52/fopen): adding to final database dump
+0067.395 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/52/fopen): adding to final database dump
+0067.397 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_claims.table.gz (10/52/fopen): adding to final database dump
+0067.399 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_groups.table.tmpr7.gz (11/52/fopen): adding to final database dump
+0067.400 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_groups.table.gz (12/52/fopen): adding to final database dump
+0067.402 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_logs.table.tmpr253.gz (13/52/fopen): adding to final database dump
+0067.404 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_actionscheduler_logs.table.gz (14/52/fopen): adding to final database dump
+0067.406 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_commentmeta.table.tmpr21.gz (15/52/fopen): adding to final database dump
+0067.407 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_commentmeta.table.gz (16/52/fopen): adding to final database dump
+0067.409 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_comments.table.tmpr14.gz (17/52/fopen): adding to final database dump
+0067.411 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_comments.table.gz (18/52/fopen): adding to final database dump
+0067.413 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_links.table.tmpr0.gz (19/52/fopen): adding to final database dump
+0067.415 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_links.table.gz (20/52/fopen): adding to final database dump
+0067.417 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_postmeta.table.tmpr5568.gz (21/52/fopen): adding to final database dump
+0067.421 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_postmeta.table.gz (22/52/fopen): adding to final database dump
+0067.423 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_posts.table.tmpr732.gz (23/52/fopen): adding to final database dump
+0067.426 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_posts.table.gz (24/52/fopen): adding to final database dump
+0067.428 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_term_relationships.table.tmpr100001.gz (25/52/fopen): adding to final database dump
+0067.430 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_term_relationships.table.gz (26/52/fopen): adding to final database dump
+0067.432 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_term_taxonomy.table.tmpr47.gz (27/52/fopen): adding to final database dump
+0067.435 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_term_taxonomy.table.gz (28/52/fopen): adding to final database dump
+0067.437 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_termmeta.table.tmpr53.gz (29/52/fopen): adding to final database dump
+0067.440 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_termmeta.table.gz (30/52/fopen): adding to final database dump
+0067.442 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_terms.table.tmpr47.gz (31/52/fopen): adding to final database dump
+0067.445 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_terms.table.gz (32/52/fopen): adding to final database dump
+0067.447 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/52/fopen): adding to final database dump
+0067.450 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_category_lookup.table.gz (34/52/fopen): adding to final database dump
+0067.452 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_product_meta_lookup.table.tmpr721.gz (35/52/fopen): adding to final database dump
+0067.455 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_product_meta_lookup.table.gz (36/52/fopen): adding to final database dump
+0067.457 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/52/fopen): adding to final database dump
+0067.459 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_reserved_stock.table.gz (38/52/fopen): adding to final database dump
+0067.462 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/52/fopen): adding to final database dump
+0067.464 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_tax_rate_classes.table.gz (40/52/fopen): adding to final database dump
+0067.466 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/52/fopen): adding to final database dump
+0067.469 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_order_itemmeta.table.gz (42/52/fopen): adding to final database dump
+0067.471 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/52/fopen): adding to final database dump
+0067.474 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/52/fopen): adding to final database dump
+0067.476 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_rank_math_analytics_objects.table.tmpr46.gz (45/52/fopen): adding to final database dump
+0067.479 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_rank_math_analytics_objects.table.gz (46/52/fopen): adding to final database dump
+0067.481 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_rank_math_internal_links.table.tmpr0.gz (47/52/fopen): adding to final database dump
+0067.484 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_rank_math_internal_links.table.gz (48/52/fopen): adding to final database dump
+0067.486 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_rank_math_internal_meta.table.tmpr0.gz (49/52/fopen): adding to final database dump
+0067.488 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_rank_math_internal_meta.table.gz (50/52/fopen): adding to final database dump
+0067.491 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_admin_note_actions.table.tmpr503.gz (51/52/fopen): adding to final database dump
+0067.493 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_admin_note_actions.table.gz (52/52/fopen): adding to final database dump
+0067.496 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_admin_notes.table.tmpr43.gz (53/52/fopen): adding to final database dump
+0067.498 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_admin_notes.table.gz (54/52/fopen): adding to final database dump
+0067.501 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_customer_lookup.table.tmpr8.gz (55/52/fopen): adding to final database dump
+0067.503 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_customer_lookup.table.gz (56/52/fopen): adding to final database dump
+0067.506 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_download_log.table.tmpr0.gz (57/52/fopen): adding to final database dump
+0067.508 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_download_log.table.gz (58/52/fopen): adding to final database dump
+0067.510 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (59/52/fopen): adding to final database dump
+0067.513 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_coupon_lookup.table.gz (60/52/fopen): adding to final database dump
+0067.515 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_product_lookup.table.tmpr0.gz (61/52/fopen): adding to final database dump
+0067.518 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_product_lookup.table.gz (62/52/fopen): adding to final database dump
+0067.520 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_stats.table.tmpr294.gz (63/52/fopen): adding to final database dump
+0067.522 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_stats.table.gz (64/52/fopen): adding to final database dump
+0067.524 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (65/52/fopen): adding to final database dump
+0067.527 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_order_tax_lookup.table.gz (66/52/fopen): adding to final database dump
+0067.529 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_webhooks.table.tmpr0.gz (67/52/fopen): adding to final database dump
+0067.532 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wc_webhooks.table.gz (68/52/fopen): adding to final database dump
+0067.534 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (69/52/fopen): adding to final database dump
+0067.537 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_api_keys.table.gz (70/52/fopen): adding to final database dump
+0067.539 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (71/52/fopen): adding to final database dump
+0067.541 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_attribute_taxonomies.table.gz (72/52/fopen): adding to final database dump
+0067.544 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (73/52/fopen): adding to final database dump
+0067.546 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (74/52/fopen): adding to final database dump
+0067.549 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_log.table.tmpr0.gz (75/52/fopen): adding to final database dump
+0067.551 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_log.table.gz (76/52/fopen): adding to final database dump
+0067.554 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_order_items.table.tmpr0.gz (77/52/fopen): adding to final database dump
+0067.556 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_order_items.table.gz (78/52/fopen): adding to final database dump
+0067.558 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (79/52/fopen): adding to final database dump
+0067.561 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_payment_tokens.table.gz (80/52/fopen): adding to final database dump
+0067.563 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_sessions.table.tmpr64.gz (81/52/fopen): adding to final database dump
+0067.566 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_sessions.table.gz (82/52/fopen): adding to final database dump
+0067.568 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (83/52/fopen): adding to final database dump
+0067.571 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_shipping_zone_locations.table.gz (84/52/fopen): adding to final database dump
+0067.573 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (85/52/fopen): adding to final database dump
+0067.575 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_shipping_zone_methods.table.gz (86/52/fopen): adding to final database dump
+0067.578 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (87/52/fopen): adding to final database dump
+0067.580 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_shipping_zones.table.gz (88/52/fopen): adding to final database dump
+0067.583 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (89/52/fopen): adding to final database dump
+0067.585 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_tax_rate_locations.table.gz (90/52/fopen): adding to final database dump
+0067.587 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (91/52/fopen): adding to final database dump
+0067.590 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_woocommerce_tax_rates.table.gz (92/52/fopen): adding to final database dump
+0067.592 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wpforms_tasks_meta.table.tmpr7.gz (93/52/fopen): adding to final database dump
+0067.595 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_wpforms_tasks_meta.table.gz (94/52/fopen): adding to final database dump
+0067.597 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_indexable.table.tmpr29.gz (95/52/fopen): adding to final database dump
+0067.600 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_indexable.table.gz (96/52/fopen): adding to final database dump
+0067.602 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_indexable_hierarchy.table.tmpr1001.gz (97/52/fopen): adding to final database dump
+0067.603 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_indexable_hierarchy.table.gz (98/52/fopen): adding to final database dump
+0067.605 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_migrations.table.tmpr23.gz (99/52/fopen): adding to final database dump
+0067.608 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_migrations.table.gz (100/52/fopen): adding to final database dump
+0067.610 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_primary_term.table.tmpr0.gz (101/52/fopen): adding to final database dump
+0067.613 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_primary_term.table.gz (102/52/fopen): adding to final database dump
+0067.615 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_seo_links.table.tmpr0.gz (103/52/fopen): adding to final database dump
+0067.617 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db-table-wp_yoast_seo_links.table.gz (104/52/fopen): adding to final database dump
+0067.642 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db.gz: finished writing out complete database file (700.3 KB)
+0067.664 (0) Total database tables backed up: 52 (backup_2021-11-07-1805_YourTouch_03199fb479a8-db.gz, size: 717217, sha1: 1bf1b879f90315383010f69fcd776f2924a9d94d, sha256: 5d749b89709b96d1647c6dea568cbb41e04933760279a58ae9c8e33f2c734dcf)
+0067.676 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0067.677 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0067.680 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0067.682 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-others.zip: others: This file has not yet been successfully uploaded: will queue
+0067.685 (0) backup_2021-11-07-1805_YourTouch_03199fb479a8-db.gz: db: This file has not yet been successfully uploaded: will queue
+0067.687 (0) Saving backup history. Total backup size: 98.5 MB
+0067.692 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0067.699 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0067.701 (0) No remote despatch: user chose no remote backup service
+0067.703 (0) Recording as successfully uploaded: backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip
+0067.708 (0) Deleting zip manifest (backup_2021-11-07-1805_YourTouch_03199fb479a8-plugins.zip.list.tmp)
+0067.710 (0) Recording as successfully uploaded: backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip
+0067.715 (0) Deleting zip manifest (backup_2021-11-07-1805_YourTouch_03199fb479a8-themes.zip.list.tmp)
+0067.717 (0) Recording as successfully uploaded: backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip
+0067.722 (0) Deleting zip manifest (backup_2021-11-07-1805_YourTouch_03199fb479a8-uploads.zip.list.tmp)
+0067.725 (0) Recording as successfully uploaded: backup_2021-11-07-1805_YourTouch_03199fb479a8-others.zip
+0067.729 (0) Deleting zip manifest (backup_2021-11-07-1805_YourTouch_03199fb479a8-others.zip.list.tmp)
+0067.730 (0) Recording as successfully uploaded: backup_2021-11-07-1805_YourTouch_03199fb479a8-db.gz
+0067.736 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0067.737 (0) Number of backup sets in history: 1; groups (db): 1
+0067.739 (0) Examining (for databases) backup set with group_id=0, nonce=03199fb479a8, datestamp=1636308325 (Nov 07 2021 18:05:25)
+0067.740 (0) This backup set is the backup set just made, so will not be deleted.
+0067.740 (0) Number of backup sets in history: 1; groups (files): 1
+0067.742 (0) Examining (for files) backup set with nonce=03199fb479a8, datestamp=1636308325 (Nov 07 2021 18:05:25)
+0067.742 (0) This backup set is the backup set just made, so will not be deleted.
+0067.743 (0) This backup set is the backup set just made, so will not be deleted.
+0067.743 (0) This backup set is the backup set just made, so will not be deleted.
+0067.743 (0) This backup set is the backup set just made, so will not be deleted.
+0067.743 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0067.745 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0067.748 (0) Resume backup (03199fb479a8, 0): finish run
+0067.753 (0) Decremented the semaphore (fd) by 1
+0067.756 (0) Semaphore (fd) unlocked
+0067.757 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0067.763 (0) No email will/can be sent - the user has not configured an email address.
+0067.764 (0) The backup apparently succeeded and is now complete
